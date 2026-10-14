@@ -1,0 +1,5 @@
+Un semnal digitizat cu frecventa f = 2000
+- perioada dintre 2 esantioane este T = 1/f = 1/2000 = 0.0005 s 
+- 2000 esantoane intr-o secunda => 2 000*4 = 8 000 biti pe secunda 
+- 1 byte = 8 biti => 8000 biti = 1000 bytes pe secunda
+- o ora = 60*60 secunde => 1000 bytes/sec * 3600 *sec = 3 6000 000 bytes
