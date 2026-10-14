@@ -48,6 +48,6 @@ axs[2].set_title("Z")
 for ax in axs.flat:
     ax.set_xlim(l_inf,l_sup)
 
-plt.savefig("lab01/Sampled_signals_ex1.pdf")
+plt.savefig("lab01/ex1/sampled_signals_ex1.pdf")
 
 plt.show()
