@@ -25,7 +25,7 @@ axs[2].plot(t_real, sine(t_real, f2), color = "green")
 axs[2].plot(t, sine(t, f2), 'ro', color = "yellow")
 
 plt.tight_layout()
-plt.savefig("lab04/ex2/aliasing_effect.pdf")
+plt.savefig("lab04/ex3/aliasing_effect.pdf")
 
 plt.show()
 

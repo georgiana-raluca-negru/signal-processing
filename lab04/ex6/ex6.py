@@ -42,6 +42,9 @@ colorbar = plt.colorbar()
 colorbar.set_label('Magnitude (dB)')
 
 plt.tight_layout()
+
+plt.savefig("lab04/ex6/spectogram.pdf")
+
 plt.show()
 
 
