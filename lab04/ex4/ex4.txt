@@ -1,0 +1,3 @@
+Frecventa maxima continuta in semnal, B, este de 200Hz
+Prin urmare, pentru a nu avea pierderi de informati, semnalul trebuie esantionat cu minim fs > 2B
+deci fs > 400Hz
